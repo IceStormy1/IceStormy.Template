@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Mikhail Tolmachev",
+    "classifications": [ "Web", "Api", "EF Core", "PostgreSQL", "AutoMapper", "FluentValidation" ],
+    "identity": "IceStormy.Template",
+    "name": "Template for new API solutions",
+    "shortName": "icestormytemplate",
+    "sourceName":"IceStormy.Template",
+    "description": "Template for new API solution",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    },
+    "preferNameDirectory": true
+  }
