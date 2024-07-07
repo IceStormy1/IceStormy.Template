@@ -17,7 +17,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
-		<Content Include="..\..\IceStormy.Template\**\*" Exclude="..\..\IceStormy.Template\**\bin\**;..\..\IceStormy.Template\**\obj\**;..\..\IceStormy.Template\**\.vs\**" />
-	
+		<Content Include="IceStormyTemplateApi\**\*" Exclude="IceStormyTemplateApi\**\bin\**;IceStormyTemplateApi\**\obj\**;IceStormyTemplateApi\**\.vs\**" />
+		<Compile Remove="..\**\*" /> 
 	</ItemGroup>
 </Project>
